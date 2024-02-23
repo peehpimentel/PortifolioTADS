@@ -1,0 +1,12 @@
+ - Create an Bitwarden account
+ - Dowload Bitwarden
+ - Create and Docker account
+ - Download docker
+ - Enable WSL 2
+ - Install docker
+ - Create a Docker container from a Linux image
+ - Use command docker run -it linuxImage
+ - Install any text editor inside the container
+ - Clonate a github repository
+ - Change the repository that was clonated
+ - Push the changes
